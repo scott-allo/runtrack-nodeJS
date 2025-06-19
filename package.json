@@ -1,0 +1,20 @@
+{
+  "name": "runtrack-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-allo/runtrack-nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott-allo/runtrack-nodeJS/issues"
+  },
+  "homepage": "https://github.com/scott-allo/runtrack-nodeJS#readme"
+}

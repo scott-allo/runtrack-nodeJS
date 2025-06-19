@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Acheter du lait",
+      "description": "Aller au supermarché et acheter une bouteille de lait",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Appeler le plombier",
+      "description": "Prendre rendez-vous avec le plombier pour réparer le robinet",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Faire la lessive",
+      "description": "Laver les vêtements et les draps",
+      "completed": false
+    }
+  ]
+}
