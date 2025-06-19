@@ -1,0 +1,45 @@
+{
+  "students": [
+    {
+      "_id": "6853ebb3db9636ecccea9b59",
+      "id": 1,
+      "lastname": "LeBricoleur",
+      "firstname": "Bob",
+      "students_number": 1001,
+      "year_id": 1
+    },
+    {
+      "_id": "6853ebb3db9636ecccea9b5a",
+      "id": 2,
+      "lastname": "Doe",
+      "firstname": "John",
+      "students_number": 1002,
+      "year_id": 2
+    },
+    {
+      "_id": "6853ebb3db9636ecccea9b5b",
+      "id": 3,
+      "lastname": "Dupont",
+      "firstname": "Marine",
+      "students_number": 1003,
+      "year_id": 3
+    }
+  ],
+  "years": [
+    {
+      "_id": "6853ebb3db9636ecccea9b5c",
+      "id": 1,
+      "year": "Bachelor 1"
+    },
+    {
+      "_id": "6853ebb3db9636ecccea9b5d",
+      "id": 2,
+      "year": "Bachelor 2"
+    },
+    {
+      "_id": "6853ebb3db9636ecccea9b5e",
+      "id": 3,
+      "year": "Bachelor 3"
+    }
+  ]
+}
