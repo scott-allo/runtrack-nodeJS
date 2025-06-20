@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/scott-allo/runtrack-nodeJS/issues"
   },
-  "homepage": "https://github.com/scott-allo/runtrack-nodeJS#readme"
+  "homepage": "https://github.com/scott-allo/runtrack-nodeJS#readme",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
 }
